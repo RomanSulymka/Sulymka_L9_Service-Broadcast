@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sulymka_L9_Service-Broadcast</string>
+    <string name="calculate">Calculate</string>
+    <string name="first_number">First number</string>
+    <string name="start_service">start_service</string>
+    <string name="second_number">Second_number</string>
+    <string name="text_fragment">text_fragment</string>
+    <string name="multiplication">x</string>
+</resources>
